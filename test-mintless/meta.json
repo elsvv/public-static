@@ -5,7 +5,7 @@
     "image": "https://i.ibb.co/SKMtNTG/mintless.png",
     "description": "Test Mintless Jetton",
 
-    "mintless_merkle_dump_uri": "TODO",
-    "mintles_merkle_dump_uri": "TODO",
+    "mintless_merkle_dump_uri": "https://raw.githubusercontent.com/elsvv/public-static/refs/heads/main/test-mintless/merkle.json",
+    "mintles_merkle_dump_uri": "https://raw.githubusercontent.com/elsvv/public-static/refs/heads/main/test-mintless/merkle.json",
     "custom_payload_api_uri": "TODO"
 }
