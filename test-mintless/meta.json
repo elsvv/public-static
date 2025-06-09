@@ -1,0 +1,11 @@
+{
+    "name": "Test Mintless",
+    "symbol": "TP",
+    "decimals": "9",
+    "image": "https://i.ibb.co/SKMtNTG/mintless.png",
+    "description": "Test Mintless Jetton",
+
+    "mintless_merkle_dump_uri": "TODO",
+    "mintles_merkle_dump_uri": "TODO",
+    "custom_payload_api_uri": "TODO"
+}
