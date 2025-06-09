@@ -4,7 +4,6 @@
     "decimals": "9",
     "image": "https://i.ibb.co/SKMtNTG/mintless.png",
     "description": "Test Mintless Jetton",
-
     "mintless_merkle_dump_uri": "https://raw.githubusercontent.com/elsvv/public-static/refs/heads/main/test-mintless/merkle.boc",
     "mintles_merkle_dump_uri": "https://raw.githubusercontent.com/elsvv/public-static/refs/heads/main/test-mintless/merkle.boc",
     "custom_payload_api_uri": " https://mintless-airdrop-test.ston.fi/address/EQB3Cy-7XpvtwdqnROKvR6wTISY-8GcpRJXnH-KRjCGBtLa4"
